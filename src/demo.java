@@ -8,5 +8,7 @@ public class demo {
         System.out.println("test 3");
         System.out.println(ConsoleColors.BLUE + "first message"+ ConsoleColors.YELLOW +"second"+ConsoleColors.RESET);
         System.out.println("third message");
+
+
     }
 }
